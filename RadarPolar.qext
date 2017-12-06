@@ -1,0 +1,8 @@
+{
+	"name" : "RadarPolar",
+	"description" : "Basic 1 dimension and 1 measure Polar and Radar extension with chart.js",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.1",
+	"author": "Mitch Mommers"
+}
